@@ -1,3 +1,6 @@
+# Para visualização do slide, acessar o seguinte link:
+https://www.canva.com/design/DAGi-g5WPzA/XuVGXBtb7lDDob6_28fbTw/view?utm_content=DAGi-g5WPzA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfdcefb562f 
+
 Objetivo do projeto:
 desenvolver um sistema simples de gerenciamento de festas.
 
